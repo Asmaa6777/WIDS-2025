@@ -1,9 +1,8 @@
 ## here are list of ideas to apply 
 
-- strucure the project first 
-
-
-
+- strucure the project first
+- Split data by sex, then train separate ADHD models for males and females or maybe males only.
+- Nested Stratified Splitting
 ## theoratically 
 
 - understand how multioutput class work 
