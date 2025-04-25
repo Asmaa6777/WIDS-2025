@@ -1,0 +1,15 @@
+- check and deal with outliers
+- scaling/standarization or normalization
+- encoding categorical features, One-Hot Encoding
+- Work on making features for females 
+- Self learning and contrastive learning for data imbalance
+- feature selection and dropping: Information Gain, https://www.linkedin.com/advice/0/what-best-way-determine-which-features-keep-discard-h37jf#:~:text=The%20best%20way%20to%20decide,based%20approaches%20assess%20feature%20importance. 
+- Make ADHD a feature for predicting sex
+- predict sex based on ADHD result and symptoms specific to female (model chaining)
+- try more linear models
+- research predicting sex based on fmri data, unrelated to ADHD
+- Try predicting sex based on fMRI and features of ADHD only
+- Try predicting ADHD without fMRI data (insights from it are already provided in ADHD data)
+- Ensemble learning
+- Compare different techniques for calculating final F1 score and see if there is any difference
+- Maybe sign Doaa up??
