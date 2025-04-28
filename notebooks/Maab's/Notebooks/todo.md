@@ -43,7 +43,8 @@
 - Should we **amplify certain symptom categories** to better model ADHD in females?
 - Dropping ADHD features that are in common between males and females and only leave the different ADHD symptoms and amplify them. To predict if someone has ADHD, check the male and female symptoms in an OR statement. if one of them is more present then mark the person to have ADHD and the specific gender (since now symptoms are in two catergories based on sex) If no symptoms are present then predict sex based on fMRI
 - predict sex in ADHD patients only without the use of fMRI
-
+- Explore the chance of using a model that classifies 1 target (combine both sex and ADHD) that makes 4 predictions (11, 01, 10, 00)
+- RobustScalar vs StandardScalar: try both and see if there is improvement in validation/score
 ---
 
 
