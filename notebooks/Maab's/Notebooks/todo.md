@@ -45,6 +45,7 @@
 - predict sex in ADHD patients only without the use of fMRI
 - Explore the chance of using a model that classifies 1 target (combine both sex and ADHD) that makes 4 predictions (11, 01, 10, 00)
 - RobustScalar vs StandardScalar: try both and see if there is improvement in validation/score
+- Decide what to Stratify/Balance on: ADHD or Sex? Right now we're using ADHD but as you know model is struggling to predict sex more
 ---
 
 
